@@ -4,17 +4,21 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#FFEB3B"
     tools:context=".MainActivity">
 
-    <!--TODO: Change the text of the TextView-->
-    <!--TODO: Increase the font size-->
-    <!--TODO: Change the text color-->
-    <!--TODO: Change the background color-->
-    <!--TODO: Change the font (font-family)-->
+    <!--COMPLETED: Change the text of the TextView-->
+    <!--COMPLETED: Increase the font size-->
+    <!--COMPLETED: Change the text color-->
+    <!--COMPLETED: Change the background color-->
+    <!--COMPLETED: Change the font (font-family)-->
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:fontFamily="cursive"
+        android:text="Hello Rohan!"
+        android:textColor="#2196F3"
+        android:textSize="60sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
