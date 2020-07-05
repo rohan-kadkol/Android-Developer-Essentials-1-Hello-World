@@ -22,7 +22,7 @@ Hence, our first app with be the, yup you guessed it — "Hello World" app.
 
 #### Goal
 
-<img src="images/solution.png">
+<img src="images/screenshot.gif">
 
 ### Skills Learned
 

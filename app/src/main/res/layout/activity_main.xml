@@ -16,7 +16,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="cursive"
-        android:text="Hello Rohan!"
+        android:text="Hello World!"
         android:textColor="#2196F3"
         android:textSize="60sp"
         app:layout_constraintBottom_toBottomOf="parent"
